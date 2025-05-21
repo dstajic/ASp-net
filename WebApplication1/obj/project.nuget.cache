@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aL+MJ7rp8FaYsiOelGzNz2ubQA6TpIod0MRnfmk77izJptCWVAt/FA8qzV0FRnszZn9RUdBQlahvp9N6HO7HMg==",
+  "dgSpecHash": "r68pNiuF9BN5+0wa8IaSkYfZin/QfvhmIR3yp/AbREP8M+K0+IceOPb6K9iPPX8PEr7Jw5zikjkLxi76cVAhqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Borko\\AspNet\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\Borko\\Asp-net\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
